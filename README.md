@@ -12,3 +12,9 @@ jika tidak di isi akan muncul warning
 
 jika Material Buy Price < 100 maka akan muncul warning
 ![warning price](https://github.com/rizkiayu/registrasi_material/assets/109949851/91292e4c-5e5e-42e4-a3e6-bf9f21532d34)
+
+Jika sudah user dapat melihat list material yg sudah di buat
+![list material](https://github.com/rizkiayu/registrasi_material/assets/109949851/48faec7a-3bfb-42de-b817-e6e581cc09fa)
+
+User dapat memfilter berdasarkan Material Type nya
+![filter material type](https://github.com/rizkiayu/registrasi_material/assets/109949851/2a2f9c07-da1c-4d2f-a102-b6708178a7f2)
